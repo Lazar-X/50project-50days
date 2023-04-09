@@ -1,0 +1,2 @@
+# expanding-cards
+Expanding Cards is a responsive web project that features a set of cards, each with a unique background image and text overlay. When a user clicks on a card, it expands in width while the other cards shrink. The project is built using HTML, CSS, and JavaScript, with a function that adds the 'active' class to the selected card and removes it from all other cards. This creates a smooth and interactive user experience. Try it out and see the cards come to life!
