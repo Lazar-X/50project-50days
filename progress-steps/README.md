@@ -1,0 +1,6 @@
+# progress-steps
+This is a progress steps project that allows the user to navigate between different steps using the "next" and "previous" buttons. The project consists of a container that holds the progress bar and the buttons. The progress bar is implemented using a CSS class called "progress", which has a width of 0 and a position of absolute. To give the effect of a line that fills up as the user progresses, a CSS class called "progress-container" is used, which has a :before pseudo-element with a width of 100 and a neutral color.
+
+The project also includes circle elements that represent each step, which have their own CSS classes. When a circle is active, its color changes to indicate the user's current position. In JavaScript, the elements are selected and a counter variable is set to keep track of which circle is currently active. Event listeners are added to the "next" and "previous" buttons, which trigger functions that loop through the circles and add or remove the "active" class as needed. The width of the progress class is also adjusted based on the button that was clicked, to move the progress bar forward or backward accordingly.
+
+Overall, this project provides a simple yet effective way to guide users through a multi-step process, with clear visual feedback to help them keep track of their progress.
