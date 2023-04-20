@@ -1,0 +1,4 @@
+# split-landing-page
+I created a responsive Split Landing Page, with a container that holds left and right side content, including a heading and button. The main focus of this project was on CSS, where I used relative and absolute positioning to position elements. I also did some styling with background images, overlay effects, and played around with colors.
+
+The most notable aspect of this project was the hover effect. When someone hovers their mouse over one section, it gets bigger while the other section gets smaller, and vice versa for the second section. I achieved this effect using JavaScript, with event listeners for the mouseenter and mouseleave properties. By adding classes to the main container that affect the width property of the sections, I was able to create a dynamic and visually appealing hover effect.
