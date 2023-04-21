@@ -1,0 +1,4 @@
+# form-wave-animation
+Today I worked on a project called Form Wave Animation. The project is a responsive login form with a cool transition effect for input fields. In the HTML file, I created a container that holds the form with input fields and labels. Then, in JavaScript, I got all label fields and separated them into span elements for each letter. To do this, I used innerText to get the text, split to separate it into individual letters, map to write each letter into a span element, and join to put it back inside the label.
+
+For the styling, I did some basic design, but the focus was on the span elements. When an input field is clicked, the corresponding span element translates up. I also added a transition delay using JavaScript while creating the span elements. Throughout this project, I learned a lot about the split, map, and join functions, and I also learned about the new transition property, cubic-bezier.
