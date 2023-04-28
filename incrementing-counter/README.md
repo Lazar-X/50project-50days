@@ -1,0 +1,4 @@
+# incrementing-counter
+ Completed a project called Incrementing Counter. It's a responsive project that's designed to display a counting animation. In my HTML file, I used classes that contained an icon, a heading, and another div with a data-target attribute that I'll use to display as the final value in JavaScript. In CSS, I kept the styling simple with some basic formatting.
+
+However, the main focus of this project was in JavaScript. I looped through each class, set the inner text to zero, and then used a function called updateCounter to increment the number until it reaches the data-target value that I set. Regardless of how large or small the target number is, they all finish the animation at the same time, which makes for a nice, smooth experience. Overall, it was a great project to work on, and I'm happy with how it turned out!
