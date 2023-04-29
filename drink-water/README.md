@@ -1,0 +1,7 @@
+I completed a project called Drink Water, which is a responsive web application. In the HTML file, there is a main cup that represents 2 liters of water, and below that, there are eight small cups that represent 250 ml of water each. I used CSS to style the cups and made the first cup bigger than the others. I also created a CSS class called "full" that we will add when we click on a small cup.
+
+In the JavaScript file, I added logic to the project. First, I looped through all the small cups and added an event listener to each one. When a small cup is clicked, it will fill up - the "full" class is added to it. I also made it so that when a cup is clicked, all the cups before it also get filled up. Similarly, when a cup is clicked to empty it, all the cups after that cup, including that one, will also get emptied.
+
+In addition to the small cups, I also created a div that represents the percentage of the big cup that is filled. I made a function that updates the big cup by setting its height based on a mathematical calculation. The visibility of the percentage div is set to hidden and the height is set to 0 if the cup is empty. If the cup is full, the percentage div is visible, and the height is set to 100%.
+
+Overall, this project was simpler than it looked at first. I'm happy with how it turned out, and it was a great learning experience.
