@@ -1,0 +1,2 @@
+# background-slider
+Background Slider is a cool project where I display the same background image on both the body and the element in front. In the HTML, I created a slide container, slides, and buttons. In CSS, I styled how the project would look like. In JavaScript, I have a variable called active slide which helps me know which slide I am currently on, and depending on that, I add the background image to both the body and the slide container. I also added event listeners for clicks on the buttons to change the image, making it a really fun and interactive project.
